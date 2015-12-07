@@ -5,7 +5,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 1. Overview
 -------------
-Modern framework use IoC (Inversion of Control)  to handle common component.  Every component have registered name,  and it's called from code with name.
+Modern framework use IoC (Inversion of Control)  to handle common component.  Every components have registered name,  and they are called from code with the name.
 
 Yii example :
 ```php
