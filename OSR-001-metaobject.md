@@ -9,8 +9,8 @@ Modern framework use IoC (Inversion of Control)  to handle common component.  Ev
 
 Yii example :
 ```php
-$mailer = Yii->app()->mailer;   // or
-$mailer = Yii->app()->getComponent('mailer');
+$mailer = Yii::$app->mailer;   // or
+$mailer = Yii::app->getComponent('mailer');
 ```
 
 Symfony example :
